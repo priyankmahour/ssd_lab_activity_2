@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /bin/bash
 # Question 1 Lab 2 SSD
 
 lines=$( echo `awk 'END {print NR}' file1.txt` )
